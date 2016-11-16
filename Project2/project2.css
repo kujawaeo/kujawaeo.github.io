@@ -1,0 +1,88 @@
+#logo {
+    margin-top: 2em;
+    margin-right: 0;
+}
+
+#brand h4 {
+    text-size: 12px;
+    margin-bottom: 0;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#brand h5 {
+    margin: 1em;
+    margin-top: 0;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif; 
+}
+
+nav {
+    margin-top: 3em;
+}
+
+#box h2 {
+    text-align: center;
+}
+
+#chapter>h2 {
+    padding: 2px 5px;
+    border: 1px solid hotpink;
+    text-align: center;
+    color: gray;
+}
+
+#shirt {
+    background-image: url("img/itsbetter.jpg");
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+    height: 500px;
+}
+
+#media img {
+    width: 50px;
+}
+
+.btn-default {
+    background-color: lightgrey;
+    margin: 0.25em;
+}
+
+#events {
+    color: gray;
+    border: 1px solid hotpink;
+    text-align: center;
+}
+
+#connect{
+    color: gray;
+    border: 1px solid hotpink;
+    text-align: center;
+}
+
+#welcome {
+    color: gray;
+    border: 1px solid hotpink;
+    text-align: center;
+}
+
+#footer {
+    border: 1px solid hotpink;
+    text-align: center;
+    margin-bottom: 2em;
+}
+
+#socialmedia {
+    text-decoration: underline;
+    text-align: center;
+}
+
+#contactus {
+    text-decoration: underline;
+    text-align: center;
+}
+
+#footerlogo {
+    margin-top: 3em;
+    margin-left: 0;
+}
